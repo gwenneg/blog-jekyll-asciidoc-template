@@ -1,5 +1,4 @@
 # Blogging on GitHub Pages with minimal effort
 
-This template repository comes with a blog post which is not finished yet.
-
-I'll update this README file when everything's ready.
+Thinking about starting a blog but worried it’s too time-consuming?
+Learn in [this blog post](https://gwenneg.com/2024/08/17/blogging-with-minimal-effort.html) how to launch a fully functional blog on GitHub Pages and post with minimal effort.
